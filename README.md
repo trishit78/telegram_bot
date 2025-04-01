@@ -5,3 +5,5 @@ reference doc : https://www.npmjs.com/package/telegraf
 2. storing algorithms in a DB or JSON file.
 3. Implementing error handling for unrecognized commands.
 4. formatting using telegrams MD or html support.
+5. connect with openai api
+
